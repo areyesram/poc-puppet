@@ -1,0 +1,24 @@
+{
+  "name": "poc-puppet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/areyesram/poc-puppet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/areyesram/poc-puppet/issues"
+  },
+  "homepage": "https://github.com/areyesram/poc-puppet#readme",
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^8.0.0",
+    "puppeteer-extra-plugin-click-and-wait": "^2.2.8"
+  }
+}
